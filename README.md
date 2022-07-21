@@ -9,5 +9,5 @@ Techs that I've used at least once <br/><br/>
 <h3>🚀 Me 🚀</h3>
 <a href="https://velog.io/@eomdh"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"></a>
 <a href="mailto:edh9692@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
-<a href="https://instagram.com/eomdh_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"></a>
+<a href="https://instagram.com/eomdh_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"></a> <br/><br/><br/>
 </div>
