@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=270&section=header&text=EomDeokhyeon&fontSize=75)
+![header](https://capsule-render.vercel.app/api?type=waving&color=364fc7&height=270&section=header&text=EomDeokhyeon&fontSize=75&fontColor=FFFFFF)
 
 <div align="center">
 <h3>🛠 Tech Stack 🛠 </h3>
